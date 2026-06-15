@@ -1,4 +1,4 @@
-## Hey I'm Daniel 
+## Hey, I'm Daniel
 
 I'm a software engineer based in Portugal, currently pursuing my Master's in AI and Advanced Computing at University of Minho.
 
