@@ -7,4 +7,4 @@ Needless to say, that when I'm not busy saving old people from burning buildings
 **Fun facts:**
 - I'm into art, especially cinema. My favorite director is Kubrik.
 - I'm also interested in philosophy, mainly aesthetic & metaphysics.
-- Currently binging Conan and Jordan Schlansky remotes.
+- Currently reading Asimov's Foundation + binging Conan and Jordan Schlansky's remotes.
