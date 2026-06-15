@@ -1,10 +1,10 @@
 ## Hey I'm Daniel 
 
-I'm an aspiring software engineer based in Portugal.
+I'm a software engineer based in Portugal, currently pursuing my Master's in AI and Advanced Computing at University of Minho.
 
-[cite_start]I'm a software engineer based in Portugal, currently pursuing my Master's in Advanced Computing and Intelligent Systems at the University of Minho[cite: 1, 2, 3].
+Needless to say, that when I'm not busy saving old people from burning buildings, I'm either spending my time building deep neural networks, or making things run faster and more efficient.
 
-When I'm not busy saving old people from burning buildings, I'm either
-- Watching a movie
-- ....
-
+**Fun facts:**
+- I'm into art, especially cinema. My favorite director is Kubrik.
+- I'm also interested in philosophy, mainly aesthetic & metaphysics.
+- Currently binging in Conan and Jordan Schlansky remotes.
