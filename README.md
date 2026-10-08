@@ -8,9 +8,9 @@ MSc in Informatics Engineering (Advanced Computing & AI) at the University of Mi
 - **Rebuilding my fundamentals from the ground up:** neural networks, linear algebra, then ML systems.
 
 ### Things I've measured
-- **ZPIC on NVIDIA A100** (CUDA, with a teammate): 27.4x speedup with warp-shuffle reductions and a fused particle kernel → [repo]
-- **ZPIC on Fujitsu A64FX** (OpenMP, SVE): 76.3 s → 13.9 s by binding threads to the chip's NUMA layout → [repo]
-- **llama.cpp on Arm vs x86**: time to first token, time per token and goodput across models, quantization levels and thread counts → [repo]
+- **ZPIC on NVIDIA A100** (CUDA, with a teammate): 27.4x speedup with warp-shuffle reductions and a fused particle kernel → [repo](https://github.com/danielantlobo/zpic)
+- **ZPIC on Fujitsu A64FX** (OpenMP, SVE): 76.3 s → 13.9 s by binding threads to the chip's NUMA layout → [repo](https://github.com/danielantlobo/zpic)
+- **llama.cpp on Arm vs x86**: time to first token, time per token and goodput across models, quantization levels and thread counts → [repo](https://github.com/danielantlobo/ADED-Engine_Deep)
 
 Every number links to the code and the steps to reproduce it.
 
