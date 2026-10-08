@@ -1,11 +1,11 @@
 ## Hey, I'm Daniel
 
-I work on making AI run fast: GPU kernels, inference serving, and the hardware underneath.
+Mostly, I work on making AI run fast: GPU kernels, inference serving, and the hardware underneath.
 MSc in Informatics Engineering (Advanced Computing & AI) at the University of Minho, Portugal.
 
-### What I'm working on
+### I'm currently working on
 - **S.M.A.R.T. Neuro** (MSc thesis): an LLM agent that coordinates expert models for brain tumour MRI analysis, running on local hardware. The part I care about most is making it fast enough for several clinicians at once: profiling, TensorRT, Triton Inference Server.
-- Rebuilding my fundamentals from the ground up: neural networks, linear algebra, then ML systems.
+- **Rebuilding my fundamentals from the ground up:** neural networks, linear algebra, then ML systems.
 
 ### Things I've measured
 - **ZPIC on NVIDIA A100** (CUDA, with a teammate): 27.4x speedup with warp-shuffle reductions and a fused particle kernel → [repo]
@@ -17,7 +17,6 @@ Every number links to the code and the steps to reproduce it.
 ### Toolbox
 CUDA C++ · C · Python · PyTorch · TensorRT · Triton · OpenMP · MPI · SVE · Score-P · Slurm · Docker
 
-### Outside the terminal
+### Outside of all of this
 I hike, mostly the long climbs, play basketball, and save old people from collapsing buildings.
-Kubrick is my favourite director: nothing in his frames is there by accident.
-Currently reading Asimov's *Foundation*, a story about planning for the very long run.
+Currently reading Asimov's *Foundation* saga.
