@@ -5,7 +5,7 @@ MSc in Informatics Engineering (Advanced Computing & AI) at the University of Mi
 
 ### What I'm working on
 - **S.M.A.R.T. Neuro** (MSc thesis): an LLM agent that coordinates expert models for brain tumour MRI analysis, running on local hardware. The part I care about most is making it fast enough for several clinicians at once: profiling, TensorRT, Triton Inference Server.
-- Rebuilding my fundamentals from the ground up: neural networks, linear algebra, then ML systems. I'd rather understand why a kernel is slow than memorise how to make it fast.
+- Rebuilding my fundamentals from the ground up: neural networks, linear algebra, then ML systems.
 
 ### Things I've measured
 - **ZPIC on NVIDIA A100** (CUDA, with a teammate): 27.4x speedup with warp-shuffle reductions and a fused particle kernel → [repo]
